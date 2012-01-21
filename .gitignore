@@ -1,0 +1,6 @@
+/app/etc/local.xml
+/downloader
+/media
+/var/cache
+/var/session
+*.sql
